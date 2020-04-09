@@ -10,8 +10,8 @@ This repository belongs to team Data Pirates for TAMIDS 2020 - Texas A&M's Data 
  
  b. For Feature importance, refer to:
  
- 1)Feature Importance.ipynb
- 2)Random forest on whole flight data.ipynb
+ 1) Feature Importance.ipynb
+ 2) Random forest on whole flight data.ipynb
  
  c. For Airline Airfare analysis, refer to:
  
@@ -19,9 +19,9 @@ This repository belongs to team Data Pirates for TAMIDS 2020 - Texas A&M's Data 
  
  d. For airline specific models, refer to:
  
- 1)Airline specific named notebooks such as Allegiant Air G4.ipynb, American Airlines AA.ipynb, and others.
+ 1) Airline specific named notebooks such as Allegiant Air G4.ipynb, American Airlines AA.ipynb, and others.
  
  e. For the single final model to predict flight delays, refer to:
  
- 1)RF Prediction model for all flights.ipynb
+ 1) RF Prediction model for all flights.ipynb
  
